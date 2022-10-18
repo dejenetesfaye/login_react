@@ -150,7 +150,7 @@ export default function Login() {
                   }}
                 >
                   {' '}
-                  Dark Mode
+                  Night Mode
                 </Link>
               </p>
             </div>
